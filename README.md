@@ -10,13 +10,13 @@
 
 <div align="center">
  
-- **🔭 I’m currently working on* [my projects](https://github.com/Miri-5)  
-- **🌱 I’m currently learning* **Python, C++, HTML & CSS**
-- **👯 I’m looking to collaborate on interesting open-source projects*  
-- **🤔 I’m looking for help with* **algorithms and code optimization**
-- **💬 Ask me about* **programming and astronomy 🚀**  
-- **📫 How to reach me:* [email@gmail.com](mirimirsadiq7@gmail.com)
-- **⚡ Fun fact:* **I love exploring both the universe and new technologies 🌌** 
+- *🔭 I’m currently working on* [my projects](https://github.com/Miri-5)  
+- *🌱 I’m currently learning* **Python, C++, HTML & CSS**
+- *👯 I’m looking to collaborate on interesting open-source projects*  
+- *🤔 I’m looking for help with* **algorithms and code optimization**
+- *💬 Ask me about* **programming and astronomy 🚀**  
+- *📫 How to reach me:* [email@gmail.com](mirimirsadiq7@gmail.com)
+- *⚡ Fun fact:* **I love exploring both the universe and new technologies 🌌** 
 
  </div>
  
