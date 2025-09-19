@@ -35,8 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp,cs,discord,bots,flask,unity,blender,powershell" />
-    <img src="[https://skillicons.dev/icons?i=html,css,vscode,github,figma,git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522object-oriented%2Bprogramming%2522&psig=AOvVaw33zWjjPYs0Lr44v9ZAHX3L&ust=1758400302472000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDfuNvV5Y8DFQAAAAAdAAAAABAL)" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp,cs,discord,bots,flask,unity,blender,powershell,oop" /> /><br>
 </div>
 
 <br/>
@@ -70,5 +69,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Miri-5&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
