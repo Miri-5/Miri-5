@@ -35,8 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp,cs,discord,bots,flask,unity,blender,powershell" /> 
-    <img src="(https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png)"/> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp,cs,discord,bots,flask,unity,blender,powershell" /> <br>
 </div>
 
 <br/>
