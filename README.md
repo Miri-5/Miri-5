@@ -15,7 +15,7 @@
 - **👯 I’m looking to collaborate on interesting open-source projects*  
 - **🤔 I’m looking for help with* **algorithms and code optimization**
 - **💬 Ask me about* **programming and astronomy 🚀**  
-- **📫 How to reach me:* [email@example.com](mirimirsadiq7@gmail.com)
+- **📫 How to reach me:* [email@gmail.com](mirimirsadiq7@gmail.com)
 - **⚡ Fun fact:* **I love exploring both the universe and new technologies 🌌** 
 
  </div>
